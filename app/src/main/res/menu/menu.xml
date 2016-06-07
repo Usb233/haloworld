@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:id="@+id/action_mode"
+        android:title="mode"
+        android:icon="@drawable/refresh"
+        android:showAsAction="ifRoom" 
+       />
+    <item android:id="@+id/action_settings"
+        android:title="settings"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_about"
+        android:title="about"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_exit"
+        android:title="exit"
+        android:showAsAction="never" />
+    
+</menu>
+

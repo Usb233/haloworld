@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HaloWorld</string>
+    <string name="tv1">Terminal</string>
+    <string name="ev1">Type here</string>
+    <string name="tv2">Control</string>
+    <color name="primary">#26a69a</color>
+    <color name="primary_dark">#00796b</color>
+    <color name="nav_color">#26a69a</color>
+  
+    
+</resources>
